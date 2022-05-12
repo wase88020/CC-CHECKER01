@@ -6,7 +6,7 @@
       },
       "TOKEN": {
         "description": "BOT TOKEN",
-        "value": "5174143636:AAFLiCS2nReHtszvLMBVzYNSadmipaVIVk0",
+        "value": "5069845369:AAHIrkWb9vKFkQA6XXeCgMmamVqZ0seUov0",
         "required": true
       },
       "BLACKLISTED": {
